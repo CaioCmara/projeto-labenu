@@ -1,0 +1,72 @@
+[
+    {
+        "id": "0", 
+        "name": "Enterprise",
+        "valor": 12400000,
+        "imagem": "https://vejasp.abril.com.br/wp-content/uploads/2017/10/enterprise.jpg?resize=650,371",
+        "amount": 1
+    },
+    {
+        "id": "1", 
+        "name": "Millenium Falcon",
+        "valor": 303900,
+        "imagem": "https://vejasp.abril.com.br/wp-content/uploads/2017/10/falcon.jpg?resize=650,371",
+        "amount": 1
+    },
+    {
+        "id": "2", 
+        "name": "Tie Fighter",
+        "valor": 150000,
+        "imagem": "https://vejasp.abril.com.br/wp-content/uploads/2017/10/tie-fighter.jpg?resize=650,371",
+        "amount": 1
+    },
+    {
+        "id": "3", 
+        "name": "X-Wing",
+        "valor": 240200,
+        "imagem": "https://vejasp.abril.com.br/wp-content/uploads/2017/10/xwing.jpg?resize=650,371",
+        "amount": 1
+    },
+    {
+        "id": "4", 
+        "name": "Destroyer Imperial",
+        "valor": 500000,
+        "imagem": "https://vejasp.abril.com.br/wp-content/uploads/2017/10/destroyer.jpg?resize=650,371",
+        "amount": 1
+    },
+    {
+        "id": "6", 
+        "name": "Heighliner ",
+        "valor": 9999999,
+        "imagem": "https://cdn.mos.cms.futurecdn.net/Hm8gBgSpayetJ6XNDF9CNE-970-80.jpg.webp",
+        "amount": 1
+    },
+    {
+        "id": "7", 
+        "name": "Planet Express",
+        "valor": 314023,
+        "imagem": "https://i.pinimg.com/originals/28/63/19/28631918e5e8ab8c6d4e906c0304d96f.png",
+        "amount": 1
+    },
+    {
+        "id": "8", 
+        "name": "The Space Cruiser",
+        "valor": 10,
+        "imagem": "https://images5.alphacoders.com/625/625914.jpg",
+        "amount": 1
+    },
+    {
+        "id": "9", 
+        "name": "Star Cruiser 42",
+        "valor": 99999999999,
+        "imagem": "https://i.ebayimg.com/images/g/lSoAAOSwiLVfsh0T/s-l1600.jpg",
+        "amount": 1
+    },
+    {
+        "id": "11", 
+        "name": "Capsule Corp Spaceship",
+        "valor": 30329,
+        "imagem": "https://cdnb.artstation.com/p/assets/images/images/031/829/079/large/alexander-grzimek-36556739-3911-4bc2-a1ec-b2d399f92335.jpg?1604696729",
+        "amount": 1
+    }
+]
