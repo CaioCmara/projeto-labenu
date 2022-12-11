@@ -63,6 +63,7 @@ export const CarrinhoContainer = styled.div`
   }
   .botao_voltar{
     font-size: 20px;
+    margin-bottom: 520px;
   }
   .botao_voltar:hover{
     background-color: orange;

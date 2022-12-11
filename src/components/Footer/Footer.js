@@ -38,7 +38,7 @@ function Footer() {
             className="icone"
             href="https://github.com/CaioCmara"
             target="_blank"
-          > //teste
+          >  
             <img
               src="https://cdn-icons-png.flaticon.com/128/733/733609.png"
               width="30px"

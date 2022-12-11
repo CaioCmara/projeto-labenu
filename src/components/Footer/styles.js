@@ -9,6 +9,7 @@ padding: 17px;
 text-align: center;
 font-size: 22px;
 color: #183b6f;
+ 
 
 
 #footer-texto{
